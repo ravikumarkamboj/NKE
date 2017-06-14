@@ -1,0 +1,7 @@
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.Business\bin\Debug\netstandard1.4\NKE.Business.deps.json
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.Business\bin\Debug\netstandard1.4\NKE.Business.dll
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.Business\bin\Debug\netstandard1.4\NKE.Business.pdb
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.Business\obj\Debug\netstandard1.4\NKE.Business.csprojResolveAssemblyReference.cache
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.Business\obj\Debug\netstandard1.4\NKE.Business.AssemblyInfo.cs
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.Business\obj\Debug\netstandard1.4\NKE.Business.dll
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.Business\obj\Debug\netstandard1.4\NKE.Business.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.DB\bin\Debug\NKE.DB.dacpac
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.DB\bin\Debug\NKE.DB.dll
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.DB\bin\Debug\NKE.DB.pdb
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.DB\obj\Debug\NKE.DB.dll
+C:\Users\Ravi-Kumar.Kamboj\Documents\Visual Studio 2017\Projects\NKE\NKE.DB\obj\Debug\NKE.DB.pdb
